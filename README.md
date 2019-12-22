@@ -1,18 +1,36 @@
-# Cyber Risk
+---
+description: '#blog'
+---
+
+# Why your SMB IT Provider is Failing in Cyber Security
 
 Over the past twelve months, I've been working quite closely with a cyber security consultant \(Corch, from Shogun Cybersecurity\), which has fundamentally changed how I think about IT and cyber security in general. I've always been fascinated by the topic, and over the last 10 or so years I have absorbed every piece of information I can find.
 
-Recently Corch wrote an article on his blog about his experience providing best in class cyber security services with small businesses clients. His conclusion was that its your IT provider who us the root of your cyber security problems, and he makes a lot of really valid points.
+Recently Corch [wrote an article on his blog ](https://cyberz.wtf/posts/we-need-to-talk-about-your-it-service-provider/)about his experience providing best in class cyber security services with small businesses clients. His conclusion was that its your IT provider who us the root of your cyber security problems, and he makes a lot of really valid points.
 
 But let's step back for a minute and look at the environment which led to the reality that Corch so vividly described. What are the conditions that led to so many of the small business I meet having shameful cybersecurity?
 
-I think it boils down to three areas;
+I think it boils down to four areas;
 
-1. A focus on technology, not business risk
-2. Skills gap, both from IT and leadership
-3. A culture of overconfidence
+1. IT seen as the same as Cyber Security
+2. A focus on technology, not business risk
+3. Skills gap, both from IT and leadership
+4. A culture of overconfidence
 
-My recent talk at the Australian Cyber Security Conference in Melbourne was all about this challenge. 
+I'll do my best to describe the differences here.
+
+### Cyber ≠ IT
+
+This is the biggest misconception in cyber security today. Almost everyone in business I have met thinks cyber security and IT are the exactly the same things. Now from the outside, it's an easy mistake to make. Cyber security relies on IT and spends most of their time working with IT to keep the organisation safe, but the purpose of each is very different. To summarise;
+
+* IT is about helping people get their work done. Great IT brings orders of magnitude higher levels of organisational productivity.
+* Cyber Security is about protecting assets. Put bluntly, Cyber Security's job is to protect the business **from** IT and its users,
+
+I was speaking to someone who said their in house cyber security person's direct report was the IT manager. I then asked, does your WHS \(OSH\) manager report to the production manager? No? They report to a risk manager or the CEO? Why? Because the production manager primary role is to increase production, while following the WHS rules set out by the organisation. 
+
+What's the point of a WHS manager \(or cyber security person\) if their path to the CEO is through the very person who looks bad if serious concerns are raised. Do you think this might also be a reason IT providers are not providing you with appropriate data on your cyber risks to?
+
+![](.gitbook/assets/image%20%285%29.png)
 
 ### Technology, not risk
 
@@ -26,23 +44,34 @@ In contrast, if I have another conversation with an IT provider about what the b
 
 ### Skills Gap
 
+This is the root cause of the cyber security issue in my opinion. How many CEO's, board members, practice managers, IT managers have really had any experience in cyber security specifically? The answer is probably not. The only real experience they may have had is experiencing an incident first hand, or hearing about one from a friend.
 
+Why is the skills gap so scary? Because of a cognitive bias called the Dunning–Kruger effect. This concept states that the first line you learn about something, you become more confident than you ever will be about it again. Yes, even when you are the world's leading expert on cyber security, you will still not feel as confident as when you first learn something.
+
+
+
+![Dunning&#x2013;Kruger effect](.gitbook/assets/image%20%286%29.png)
+
+This confidence makes people believe you know everything about a topic, when you actually know hardly anything. The strange thing about this is that most people can't self identify this bias at all, so it requires someone who knows better to point it out. This leads me to my next point.
 
 ### Culture of Overconfidence
 
-When asked, 1 in 5 Australian SMEs said the weakest link in their cyber defences was; “there is no weak link” \(Chubb 2019\). I would love to see a survey of IT providers, I would expect this number would be a lot higher. 
+![This is fine](.gitbook/assets/image%20%284%29.png)
 
+When asked, 1 in 5 Australian SMEs said the weakest link in their cyber defences was; “there is no weak link” \(Chubb 2019\). I would love to see a survey of IT providers, I would expect this number would be a lot higher. The traditional mantras go along the lines of;
 
+* My IT company looks after cyber security, we are covered
+* I'm insured so we are protected
+* I've never been breached
+* Our people don't click on links
 
-Incentives
+At the end of the day, we all have to recognise that no system is perfect and that there are always weak links. For most small businesses out there, their weakest link is likely their IT provider, followed by the passwords their staff use. Other organisations, it may be in the capability of the leadership, or incident response.
 
-Australian SMEs doubled down when asked what the weakest link in their cyber defences were, with 1 in 5 \(21%\) saying “there is no weak link”. 14% said they didn’t know, with employees \(19%\), security software \(13%\) and monitoring of the security software \(11%\) rounding out the top five weakest links.
+### So what can you do?
 
-Pro's
+Get independent advice. Please. If not Corch or myself, someone else who can help you navigate your risks in a sensible way. Don't rely on your overconfident IT person to say it's all fine, find someone who can proofread their work and give you a real indication of what your risk actually is. 
 
-* Increased revenue w
-
-Culture
+Oh, and if you are a customer of mine, I still encourage you to get someone independent to review our work, we are only human after all.
 
 
 
@@ -52,5 +81,7 @@ Small Biz, we need to talk about your IT service provider: [https://cyberz.wtf/p
 
 Ignorance is Risk - Australia SME Cyber Preparedness Report 2019 - [https://www.chubb.com/au-en/articles/australia-sme-cyber-preparedness-report-2019.aspx](https://www.chubb.com/au-en/articles/australia-sme-cyber-preparedness-report-2019.aspx)
 
-Beazley breach insights - October 2019 [https://www.beazley.com/news/2019/beazley\_breach\_insights\_october\_2019.html](https://www.beazley.com/news/2019/beazley_breach_insights_october_2019.html)
+Beazley breach insights - October 2019 -[https://www.beazley.com/news/2019/beazley\_breach\_insights\_october\_2019.html](https://www.beazley.com/news/2019/beazley_breach_insights_october_2019.html)
+
+Dunning–Kruger effect - [https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger\_effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
 
