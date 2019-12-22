@@ -7,8 +7,6 @@
 3. 
 Incentives
 
-![](.gitbook/assets/image.png)
-
 
 
 Pro's
